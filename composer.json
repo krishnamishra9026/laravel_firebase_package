@@ -1,0 +1,19 @@
+{
+    "name": "simplexi/firebase",
+    "description": "Firebase - A Laravel Chatting package with firebase.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "krishna mishra",
+            "email": "er.krishna.mishra@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Firebase\\": "src/"
+        }
+    },
+    "require": {}
+}
